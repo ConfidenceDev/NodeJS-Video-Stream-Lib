@@ -42,7 +42,7 @@ app.listen(5000, () => {
 
 # Guide
 
-- <h4> File Path: full directory to the video </h4>
+- File Path: full directory to the video
 - Chunk: This determines how much byte would be streamed per peroid rather than the full video, the default and minimum is 3 which would send 1kb. 4 - 10kb, 5 - 100kb, 6 - 1mb and so on.
 
 # Contact
