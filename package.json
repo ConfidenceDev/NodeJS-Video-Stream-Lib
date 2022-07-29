@@ -1,0 +1,30 @@
+{
+  "name": "videon",
+  "version": "1.0.0",
+  "description": "Stream your video file from nodejs server to client",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "keywords": [
+    "video",
+    "stream",
+    "byte",
+    "api",
+    "buffer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConfidenceDev/NodeJS-Video-Stream-Lib.git"
+  },
+  "author": "ConfidenceDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConfidenceDev/NodeJS-Video-Stream-Lib/issues"
+  },
+  "homepage": "https://github.com/ConfidenceDev/NodeJS-Video-Stream-Lib#readme"
+}
