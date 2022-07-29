@@ -1,6 +1,6 @@
 {
   "name": "videon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stream your video file from nodejs server to client",
   "main": "app.js",
   "scripts": {
